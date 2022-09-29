@@ -22,7 +22,7 @@
 https://www.figma.com/proto/kPn3gSrv4c8r1tIW7zXEZY/e1i4_instaclone_wireframe_v1.0?node-id=5%3A208&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A208
 
 # ERD
-
+https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png
 
 # API 문서
 https://docs.google.com/spreadsheets/d/1jdz9PfgZnzpo4stEOHjCdG4ENyh9a9KdF0A-0c5jhqU/edit#gid=710369722

@@ -1,20 +1,20 @@
 # e1i4 insta clone coding project #  
-#
+<br/> 
 
 ## 🏠 소개
 
 인스타그램을 django를 활용하여 비슷하게 구현하는 프로젝트
 
 서비스의 목적 : SNS 서비스인 인스타그램의 기능을 최대한 비슷하게 구현  
-#
+<br/> 
 
 ## ⏲️ 개발기간
 2022년 9월 30일 ~ 2022년 10월 6일  
-#
+<br/> 
 
 ## 🧙 멤버구성
 고은혜, 김남훈, 나웅주, 오형석, 전다솔  
-#
+<br/> 
 
 ## 📝 공통 문서
 
@@ -24,12 +24,12 @@
 <img src="https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png">
 
 * __API(Application Programming Interface)__ [상세보기 - WIKI 이동](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)  
-#
+<br/> 
 
 
 ## ⚙️ 개발 환경
 * Framework : Django  
-#
+<br/> 
 
 
 ## 서비스의 기능

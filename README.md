@@ -7,12 +7,15 @@
 서비스의 목적 : SNS 서비스인 인스타그램의 기능을 최대한 비슷하게 구현
 
 
+
 ## ⏲️ 개발기간
 2022년 9월 30일 ~ 2022년 10월 6일
 
 
+
 ## 🧙 멤버구성
 고은혜, 김남훈, 나웅주, 오형석, 전다솔
+
 
 
 ## 📝 공통 문서
@@ -25,8 +28,10 @@
 * __API(Application Programming Interface)__ [상세보기 - WIKI 이동](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)
 
 
+
 ## ⚙️ 개발 환경
 * Framework : Django
+
 
 
 ## 서비스의 기능

@@ -1,10 +1,35 @@
 # e1i4 insta clone coding project #
 
+## 🏠 소개
+
 인스타그램을 django를 활용하여 비슷하게 구현하는 프로젝트
 
 서비스의 목적 : SNS 서비스인 인스타그램의 기능을 최대한 비슷하게 구현
 
-# 서비스의 기능
+
+## ⏲️ 개발기간
+2022년 9월 30일 ~ 2022년 10월 6일
+
+
+## 🧙 멤버구성
+고은혜, 김남훈, 나웅주, 오형석, 전다솔
+
+
+## 📝 공통 문서
+
+* __화면기획서(Wireframe)__ [상세보기](https://www.figma.com/proto/kPn3gSrv4c8r1tIW7zXEZY/e1i4_instaclone_wireframe_v1.0?node-id=5%3A208&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A208)
+
+* __ERD(Entity Relationship Diagram)__ [상세보기 - WIKI 이동](https://github.com/auberr/project_e1i4_insta_clone/wiki/ERD)
+<img src="https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png">
+
+* __API(Application Programming Interface)__ [상세보기 - WIKI 이동](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)
+
+
+## ⚙️ 개발 환경
+* Framework : Django
+
+
+## 서비스의 기능
 
 1. 회원 가입
 2. 로그인
@@ -17,16 +42,6 @@
 9. 내 프로필, 내 게시물만 보기, 팔로우 팔로워 보기, 저장 게시물 확인, 내 프로필 수정
 10. 다른 사람 프로필, 다른 사람 게시물만 보기, 팔로우 팔로워 보기
 11. 기타 등등
-
-# 와이어프레임
-https://www.figma.com/proto/kPn3gSrv4c8r1tIW7zXEZY/e1i4_instaclone_wireframe_v1.0?node-id=5%3A208&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A208
-
-# ERD
-<img src="https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png">
-https://www.erdcloud.com/p/SqN7SdhGPnHhYTe5z
-
-# API 문서
-https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing
 
 
 

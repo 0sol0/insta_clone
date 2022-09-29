@@ -23,7 +23,7 @@
 * __ERD(Entity Relationship Diagram)__ [상세보기 - WIKI 이동](https://github.com/auberr/project_e1i4_insta_clone/wiki/ERD)
 <img src="https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png">
 
-* __API(Application Programming Interface)__ [상세보기 - WIKI 이동](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)  
+* __API(Application Programming Interface)__ [상세보기](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)  
 <br/> 
 
 

@@ -13,7 +13,7 @@
 <br/> 
 
 ## 🧙 멤버구성
-고은혜, 김남훈, 나웅주, 오형석, 전다솔  
+[고은혜](https://github.com/gracegoh924), [김남훈](https://github.com/nhkmi1001), [나웅주](https://github.com/woong-garden), [오형석](https://github.com/auberr), [전다솔](https://github.com/0sol0)
 <br/> 
 
 ## 📝 공통 문서
